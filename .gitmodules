@@ -1,0 +1,3 @@
+[submodule "landing-ihc"]
+  path = ihcfront.io
+  url = https://github.com/diegocantoralp/ihcfront.io
